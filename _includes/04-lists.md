@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Places to visit
+
+* [ ] Tampere
+* [x] Rovaniemi
+* [x] Oulu
